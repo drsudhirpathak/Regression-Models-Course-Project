@@ -106,3 +106,4 @@ models. This analysis was not able to find any significant link between the
 transmission type and fuel consumption. For modern cars, with much more
 efficient automatic transmission system, it is less likely that having
 a stick shift car will save you any money.
+
