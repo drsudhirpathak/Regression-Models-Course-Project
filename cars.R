@@ -39,4 +39,3 @@ summary(best_model)
 par(mfrow = c(2,2))
 plot(best_model)
 
-
