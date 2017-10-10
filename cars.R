@@ -1,4 +1,4 @@
-# Created by Jeewesh Jha
+# Created by sudhir pathak
 ## ----warning=FALSE-------------------------------------------------------
 # factor some variables
 mtcars$cyl <- factor(mtcars$cyl)
