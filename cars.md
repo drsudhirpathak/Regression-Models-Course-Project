@@ -1,4 +1,4 @@
-# Is it worth learning how to drive stick shift?
+# IS IT WORTH LEARNING HOW TO DRIVE STICK SHIFT?
 
 One of the greatest debate about cars is on the transmission type. While
 the manual transmission is on its way towards extinction in the US, they are
@@ -9,7 +9,7 @@ this analysis is to find if there is any relationship between a set of
 variables and miles per gallon (MPG). Is it worth learning how to drive
 stick shift or buy one despite the challenging stop-and-go on hills?
 
-# Data analysis
+# Data Analysis:
 
 `mtcars` dataset was used for the analysis. It comprises fuel consumption
 and 10 aspects of automobile design and performance for 32 automobiles
@@ -161,7 +161,7 @@ on the fuel consumption ($\alpha=0.05$). Also the residual plots show that
 the distribution of residuals seem to be
 normally distributed and not depending on fitted values.
 
-# Results
+# Results:
 
 The data analysis on `mtcars` dataset from 1973 reveals some interesting
 points.
